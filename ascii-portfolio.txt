@@ -1,0 +1,8 @@
+$ git checkout HEAD portrait.txt 
+$ git add portrait.txt 
+$ git commit -m 'adding eyebrows'
+$ git add house.txt tree.txt portrait.txt
+$ git commit -m 'change dates'
+$ git add .
+$ git reset HEAD house.txt 
+$ git commit -m 'adding artiste name'
